@@ -1,0 +1,16 @@
+/Bannu/Projects/SVVVAP/iOS/obj/iPhone/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Bannu/Projects/SVVVAP/iOS/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
+/Bannu/Projects/SVVVAP/iOS/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Bannu/Projects/SVVVAP/iOS/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Bannu/Projects/SVVVAP/iOS/obj/iPhone/Release/optimized/Icons/Video.png
+/Bannu/Projects/SVVVAP/iOS/obj/iPhone/Release/optimized/
+/Bannu/Projects/SVVVAP/iOS/bin/iPhone/Release/SVVVAP.iOS.exe
+/Bannu/Projects/SVVVAP/iOS/obj/iPhone/Release/SVVVAP.iOS.exe
+/Bannu/Projects/SVVVAP/iOS/bin/iPhone/Release/Xamarin.Forms.Core.dll
+/Bannu/Projects/SVVVAP/iOS/bin/iPhone/Release/Xamarin.Forms.Platform.dll
+/Bannu/Projects/SVVVAP/iOS/bin/iPhone/Release/Xamarin.Forms.Platform.iOS.dll
+/Bannu/Projects/SVVVAP/iOS/bin/iPhone/Release/Xamarin.Forms.Xaml.dll
+/Bannu/Projects/SVVVAP/iOS/bin/iPhone/Release/Plugin.Share.Abstractions.dll
+/Bannu/Projects/SVVVAP/iOS/bin/iPhone/Release/Plugin.Share.dll
+/Bannu/Projects/SVVVAP/iOS/bin/iPhone/Release/SVVVAP.dll
+/Bannu/Projects/SVVVAP/iOS/bin/iPhone/Release/Newtonsoft.Json.dll

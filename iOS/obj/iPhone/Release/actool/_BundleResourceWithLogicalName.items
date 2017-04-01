@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-329x29.png">
+      <LogicalName>AppIcon-329x29.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-329x29@2x.png">
+      <LogicalName>AppIcon-329x29@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-329x29@3x.png">
+      <LogicalName>AppIcon-329x29@3x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-340x40@2x.png">
+      <LogicalName>AppIcon-340x40@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-340x40@3x.png">
+      <LogicalName>AppIcon-340x40@3x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-357x57.png">
+      <LogicalName>AppIcon-357x57.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-357x57@2x.png">
+      <LogicalName>AppIcon-357x57@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-360x60@2x.png">
+      <LogicalName>AppIcon-360x60@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-360x60@3x.png">
+      <LogicalName>AppIcon-360x60@3x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-329x29~ipad.png">
+      <LogicalName>AppIcon-329x29~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-329x29@2x~ipad.png">
+      <LogicalName>AppIcon-329x29@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-340x40~ipad.png">
+      <LogicalName>AppIcon-340x40~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-340x40@2x~ipad.png">
+      <LogicalName>AppIcon-340x40@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-350x50~ipad.png">
+      <LogicalName>AppIcon-350x50~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-350x50@2x~ipad.png">
+      <LogicalName>AppIcon-350x50@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-372x72~ipad.png">
+      <LogicalName>AppIcon-372x72~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-372x72@2x~ipad.png">
+      <LogicalName>AppIcon-372x72@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-376x76~ipad.png">
+      <LogicalName>AppIcon-376x76~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-376x76@2x~ipad.png">
+      <LogicalName>AppIcon-376x76@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/AppIcon-383.5x83.5@2x~ipad.png">
+      <LogicalName>AppIcon-383.5x83.5@2x~ipad.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/LaunchImage-700@2x.png">
+      <LogicalName>LaunchImage-700@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Release/actool/bundle/LaunchImage-700-568h@2x.png">
+      <LogicalName>LaunchImage-700-568h@2x.png</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

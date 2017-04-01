@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+	<style name="button_Style">
+		<item name="layout_width">fill_parent</item>
+		<item name="layout_height">wrap_content</item>
+		<item name="textColor">Green</item>
+		<item name="gravity">center</item>
+		<item name="layout_margin">3dp</item>
+		<item name="textSize">12px</item>
+		<item name="textStyle">bold</item>
+		<item name="shadowColor">Black</item>
+		<item name="shadowRadius">2</item>	
+	</style>
+</resources>

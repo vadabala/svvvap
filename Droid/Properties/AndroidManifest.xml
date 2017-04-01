@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.vadabala.svvvap" android:versionName="1.5" android:versionCode="3">
+	<uses-sdk />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<application android:label="SVVVAP" android:icon="@drawable/icon"></application>
+</manifest>

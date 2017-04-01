@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-329x29.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-329x29@2x.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-329x29@3x.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-340x40@2x.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-340x40@3x.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-357x57.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-357x57@2x.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-360x60@2x.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-360x60@3x.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-329x29~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-329x29@2x~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-340x40~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-340x40@2x~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-350x50~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-350x50@2x~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-372x72~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-372x72@2x~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-376x76~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-376x76@2x~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/AppIcon-383.5x83.5@2x~ipad.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-700@2x.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/bundle/LaunchImage-700-568h@2x.png</string>
+			<string>/Bannu/Projects/SVVVAP/iOS/obj/iPhoneSimulator/Release/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.notices</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon-3.appiconset/[][iphone][57x57][][][1x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Bannu/Projects/SVVVAP/iOS/Assets.xcassets</string>
+			<key>message</key>
+			<string>57x57 app icons only apply to iPhone apps targeting releases of iOS prior to 7.0</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon-3.appiconset/[][iphone][57x57][][][2x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Bannu/Projects/SVVVAP/iOS/Assets.xcassets</string>
+			<key>message</key>
+			<string>57x57@2x app icons only apply to iPhone apps targeting releases of iOS prior to 7.0</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon-3.appiconset/[][ipad][50x50][][][1x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Bannu/Projects/SVVVAP/iOS/Assets.xcassets</string>
+			<key>message</key>
+			<string>50x50 iPad spotlight icons only apply to iPad apps targeting releases of iOS prior to 7.0</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon-3.appiconset/[][ipad][50x50][][][2x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Bannu/Projects/SVVVAP/iOS/Assets.xcassets</string>
+			<key>message</key>
+			<string>50x50 iPad spotlight icons only apply to iPad apps targeting releases of iOS prior to 7.0</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon-3.appiconset/[][ipad][72x72][][][1x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Bannu/Projects/SVVVAP/iOS/Assets.xcassets</string>
+			<key>message</key>
+			<string>72x72 app icons only apply to iPad apps targeting releases of iOS prior to 7.0</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon-3.appiconset/[][ipad][72x72][][][2x]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Bannu/Projects/SVVVAP/iOS/Assets.xcassets</string>
+			<key>message</key>
+			<string>72x72@2x app icons only apply to iPad apps targeting releases of iOS prior to 7.0</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+	</array>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./App Icon &amp; Top Shelf Image.brandassets</string>
+			</array>
+			<key>catalog</key>
+			<string>/Bannu/Projects/SVVVAP/iOS/Assets.xcassets</string>
+			<key>message</key>
+			<string>The brand asset collection "App Icon &amp; Top Shelf Image" has an unassigned item "Top Shelf Image Wide".</string>
+			<key>type</key>
+			<string>Inapplicable Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon-1.appiconset/[][car][][][][1x][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Bannu/Projects/SVVVAP/iOS/Assets.xcassets</string>
+			<key>message</key>
+			<string>The app icon set "AppIcon-1" has an unassigned child.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcon-2.appiconset/[][car][][][][1x][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Bannu/Projects/SVVVAP/iOS/Assets.xcassets</string>
+			<key>message</key>
+			<string>The app icon set "AppIcon-2" has an unassigned child.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

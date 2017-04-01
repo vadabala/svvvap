@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.vadabala.svvvap" android:versionName="1.5" android:versionCode="3">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="11" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="SVVVAP" android:icon="@drawable/icon" android:name="md599aad7114f4ec0a7abcaf7512de775e4.MainApplication" android:allowBackup="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="SVVVAP.Droid" android:theme="@style/MyTheme" android:name="md599aad7114f4ec0a7abcaf7512de775e4.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <service android:name="md59f70a99687498e7ba187118950981d26.KeepAliveService" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.vadabala.svvvap.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>
